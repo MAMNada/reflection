@@ -18,10 +18,21 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	In case of trying a new feature while not holding the development in the
+	main stream.
+
 How do the diagrams help you visualize the branch structure?
+
+	Visually indicate the relationship
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The result is a new commit along the checkedout branch
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	pro: if there is no conflic , the speed and if there is a conflict, the programmer
+	decides
+	cons: if there is a conflict it may choose the wrong choice
